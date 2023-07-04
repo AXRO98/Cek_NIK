@@ -25,11 +25,4 @@ Contoh NIK: 3578080102030001
 │    └──> 2 angka Kode Kabupaten
 │
 └──> 2 angka Kode Provinsi
-
-Ulang Tahun
-[01] [02] [03]
-│    │    │
-│    │    └──> Tahun Lahir
-│    └──> Bulan Lahir
-└──> 
 ```
