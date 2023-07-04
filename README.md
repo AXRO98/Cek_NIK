@@ -29,7 +29,6 @@ Contoh NIK: 3578080102030001
 
 # Output
 ```
-NIK: 3578080102030001
 Provinsi: JAWA TIMUR
 Kabupaten: KOTA SURABAYA
 Kecamatan: Gubeng
