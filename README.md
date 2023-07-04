@@ -27,4 +27,13 @@ Contoh NIK: 3578080102030001
 └──> Kode Provinsi
 ```
 
-# Contoh Penggunaan
+# Output
+```
+input NIK: 3578080102030001
+Provinsi: JAWA TIMUR
+Kabupaten: KOTA SURABAYA
+Kecamatan: Gubeng
+Tanggal Lahir: 01-02-2003
+Jenis Kelamin: Laki-laki
+No Urut: 0001
+```
