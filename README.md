@@ -8,7 +8,6 @@ NIK memiliki peran penting dalam mengidentifikasi identitas dan data pribadi ses
 # Format NIK
 
 ![Foto Format NIK di KTP](format_nik_ktp.png)
-
 ```
 Contoh NIK: 3578080102030001
 [35] [78] [08] [010203] [0001]
