@@ -111,4 +111,3 @@ def parse_nik(nik):
 nik_number = input("NIK: ")
 result = parse_nik(nik_number)
 print(result)
-
