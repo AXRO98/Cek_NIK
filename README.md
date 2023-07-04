@@ -27,7 +27,7 @@ Contoh NIK: 3578080102030001
 └──> Kode Provinsi
 ```
 
-# Output
+# Contoh Output
 ```
 Provinsi: JAWA TIMUR
 Kabupaten: KOTA SURABAYA
