@@ -20,9 +20,9 @@ Contoh NIK: 3578080102030001
 │    │    │    │
 │    │    │    └──> Tanggal Lahir. Jika Tanggalnya di atas 40 itu wanita dan di bawa 31 itu pria.
 │    │    │
-│    │    └──> 2 angka Kode Kecamatan
+│    │    └──> Kode Kecamatan
 │    │
-│    └──> 2 angka Kode Kabupaten
+│    └──> Kode Kabupaten
 │
-└──> 2 angka Kode Provinsi
+└──> Kode Provinsi
 ```
