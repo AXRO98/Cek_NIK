@@ -105,7 +105,7 @@ def parse_nik(nik):
     if "Kode" in location_info:
         return location_info
 
-    return f"{location_info}\nTanggal Lahir: {day}-{month}-{year}\nJenis Kelamin: {gender}\nIndex: {index}"
+    return f"{location_info}\nTanggal Lahir: {day}-{month}-{year}\nJenis Kelamin: {gender}\nNo Urut: {index}"
 
 # Contoh penggunaan
 nik_number = input("NIK: ")
