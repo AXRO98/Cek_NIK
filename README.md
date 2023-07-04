@@ -1,7 +1,6 @@
 # INFO
 Saat ini, pada tahun 2023, jumlah provinsi di Indonesia telah bertambah menjadi 38, sementara data yang saya miliki hanya mencakup 34 provinsi. Saya akan berusaha untuk memperbarui informasi tersebut pada pembaruan selanjutnya. Terima kasih atas pemahamannya.
 
->_<
 
 # Apa itu NIK?
 NIK merupakan singkatan dari Nomor Induk Kependudukan. NIK adalah sebuah identifikasi numerik yang diberikan kepada setiap penduduk yang terdaftar dalam administrasi kependudukan di Indonesia. Setiap individu yang terdaftar sebagai penduduk di Indonesia memiliki NIK yang unik.
