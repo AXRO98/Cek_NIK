@@ -1,5 +1,10 @@
 # Apa itu NIK?
 NIK merupakan singkatan dari Nomor Induk Kependudukan. NIK adalah sebuah identifikasi numerik yang diberikan kepada setiap penduduk yang terdaftar dalam administrasi kependudukan di Indonesia. Setiap individu yang terdaftar sebagai penduduk di Indonesia memiliki NIK yang unik.
+
+NIK terdiri dari serangkaian angka yang memiliki format standar. Panjang NIK adalah 16 digit, dan setiap digit memiliki makna dan peran tertentu dalam mengidentifikasi informasi tentang individu tersebut.
+
+NIK memiliki peran penting dalam mengidentifikasi identitas dan data pribadi seseorang di Indonesia. NIK digunakan dalam berbagai aspek administratif, termasuk pendataan, pelayanan publik, identifikasi individu, dan keperluan lainnya.
+
 # Format NIK
 
 ```
