@@ -26,3 +26,5 @@ Contoh NIK: 3578080102030001
 │
 └──> Kode Provinsi
 ```
+
+# Contoh Penggunaan
