@@ -10,8 +10,8 @@ NIK memiliki peran penting dalam mengidentifikasi identitas dan data pribadi ses
 ![Foto Format NIK di KTP](format_nik_ktp.png)
 
 ```
-Contoh NIK: 3202080504910003
-[32] [02] [08] [050491] [0003]
+Contoh NIK: 3578080102030001
+[35] [78] [08] [010203] [0001]
 │    │    │    │        │
 │    │    │    │        └──> No Urut, Di Kecamatan yang memiliki Tanggal Lahir sama.
 │    │    │    └──> 6 angka Ulang Tahun Format DDMMYY, untuk wanita DD + 40
