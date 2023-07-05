@@ -1,3 +1,8 @@
+# INFO
+Saya telah memperbarui kode wilayah menjadi 38 Provinsi dan juga menambahkan kelurahan/Desa. Jika Anda memiliki masalah atau pertanyaan, silakan kirim pesan melalui email ke saya.
+
+Email: axroc98@proton.me
+
 # Apa itu NIK?
 NIK merupakan singkatan dari Nomor Induk Kependudukan. NIK adalah sebuah identifikasi numerik yang diberikan kepada setiap penduduk yang terdaftar dalam administrasi kependudukan di Indonesia. Setiap individu yang terdaftar sebagai penduduk di Indonesia memiliki NIK yang unik.
 
