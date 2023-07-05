@@ -1,5 +1,5 @@
 # INFO
-Saya telah memperbarui kode wilayah menjadi 38 Provinsi dan juga menambahkan kelurahan/Desa. Jika Anda memiliki masalah atau pertanyaan, silakan kirim pesan melalui email ke saya.
+Saya telah memperbarui Kode Wilayah menjadi 38 Provinsi dan juga menambahkan Kelurahan/Desa. Jika Anda memiliki masalah atau pertanyaan, silakan kirim pesan melalui email ke saya.
 
 Email: axroc98@proton.me
 
