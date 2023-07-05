@@ -22,7 +22,7 @@
 import json
 
 # Memuat data dari code_wilayah_indonesia.json
-with open('code_wilayah_indonesia.json', 'r') as file:
+with open('code_wilayah_indonesia_38_provinsi.json', 'r') as file:
     data = json.load(file)
 
 def get_location_info(provinsi_code, kabupaten_code, kecamatan_code):
