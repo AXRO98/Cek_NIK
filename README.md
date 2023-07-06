@@ -33,7 +33,7 @@ Contoh NIK: 3578080102030001
 ```
 
 # Data Provinsi
-```
+
 | No | Code Provinsi | Nama Provinsi |
 |:----------:|:------------:|:----------:|
 | 1 | 11 | ACEH |
@@ -74,7 +74,6 @@ Contoh NIK: 3578080102030001
 | 36 | 94 | PAPUA TENGAH |
 | 37 | 95 | PAPUA PEGUNUNGAN |
 | 38 | 96 | PAPUA BARAT DAYA |
-```
 
 # Contoh Output
 ```
