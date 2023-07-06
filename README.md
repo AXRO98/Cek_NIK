@@ -32,6 +32,8 @@ Contoh NIK: 3578080102030001
 └──> Kode Provinsi
 ```
 
+# Data Provinsi
+
 # Contoh Output
 ```
 Provinsi: JAWA TIMUR
