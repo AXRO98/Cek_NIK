@@ -36,9 +36,9 @@ Contoh NIK: 3578080102030001
 
 | No   | Code Provinsi | Nama Provinsi |
 |:----:|:-------------:|:-------------:|
-| 1 | 11 | ACEH |
-| 2 | 12 | SUMATERA UTARA |
-| 3 | 13 | SUMATERA BARAT |
+| 1    | 11 | ACEH |
+| 2    | 12 | SUMATERA UTARA |
+| 3    | 13 | SUMATERA BARAT |
 | 4 | 14 | RIAU |
 | 5 | 15 | JAMBI |
 | 6 | 16 | SUMATERA SELATAN |
