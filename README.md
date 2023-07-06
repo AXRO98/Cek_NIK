@@ -44,4 +44,4 @@ No Urut: 0001
 
 # FlowChart
 
-![](flowchart_mermaid_diagram.png)
+![FlowChart Mermaid Diagram](flowchart_mermaid_diagram.png)
