@@ -83,7 +83,3 @@ Tanggal Lahir: 01-02-2003
 Jenis Kelamin: Laki-laki
 No Urut: 0001
 ```
-
-# FlowChart
-
-![FlowChart Mermaid Diagram](flowchart_mermaid_diagram.png)
