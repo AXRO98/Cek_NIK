@@ -73,7 +73,7 @@ Contoh NIK: 3578080102030001
 | 36   | 94            | PAPUA TENGAH                |
 | 37   | 95            | PAPUA PEGUNUNGAN            |
 | 38   | 96            | PAPUA BARAT DAYA            |
-
+|:----:|:-------------:|:---------------------------:|
 
 # Contoh Output
 ```
