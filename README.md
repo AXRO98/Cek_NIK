@@ -35,6 +35,7 @@ Contoh NIK: 3578080102030001
 # Data Provinsi
 
 | No | Code Provinsi | Nama Provinsi |
+|:----------:|:------------:|:----------:|
 | 1 | 11 | ACEH |
 | 2 | 12 | SUMATERA UTARA |
 | 3 | 13 | SUMATERA BARAT |
