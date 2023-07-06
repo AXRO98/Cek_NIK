@@ -32,7 +32,7 @@ Contoh NIK: 3578080102030001
 └──> Kode Provinsi
 ```
 
-# Data Provinsi
+# Daftar Provinsi di Indonesia
 | No   | Code Provinsi | Nama Provinsi               |
 |:----:|:-------------:|:---------------------------:|
 | 1    | 11            | ACEH                        |
@@ -73,13 +73,3 @@ Contoh NIK: 3578080102030001
 | 36   | 94            | PAPUA TENGAH                |
 | 37   | 95            | PAPUA PEGUNUNGAN            |
 | 38   | 96            | PAPUA BARAT DAYA            |
-
-# Contoh Output
-```
-Provinsi: JAWA TIMUR
-Kabupaten: KOTA SURABAYA
-Kecamatan: Gubeng
-Tanggal Lahir: 01-02-2003
-Jenis Kelamin: Laki-laki
-No Urut: 0001
-```
