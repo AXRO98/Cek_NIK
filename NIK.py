@@ -75,7 +75,7 @@ def parse_nik(nik):
     year = birthday[4:]
 
     # Memeriksa apakah tanggal dan bulan dalam rentang yang valid
-    if int(day) > 31 or int(month) > 12:
+    if int(day) > 71 or int(month) > 12:
         return "Format NIK tidak valid"
 
     # Memeriksa apakah orang tersebut perempuan (DD + 40)
